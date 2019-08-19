@@ -31,7 +31,7 @@ title:               Democracy India
 tagline:             Revive democracy in India
 url:                 "http://democracy-india.github.io"
 paginate_l:           4
-baseurl:             "/x"
+baseurl:             ""
 
 paginate_langs:      ["en"]
 
@@ -68,8 +68,8 @@ kramdown:
   auto_ids: true
 
 pages_list:
-  Tags: '/x/tags'
-  Feed: '/x/atom.xml'
+  Tags: '/tags'
+  Feed: '/atom.xml'
 
 picture:
   source: "_assets/imgs/_fullsize"
