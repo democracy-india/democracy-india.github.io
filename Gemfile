@@ -1,0 +1,7 @@
+gem 'jekyll'
+gem 'bundler'
+gem 'mini_magick'
+gem 'fastimage'
+gem 'jekyll-paginate'
+gem 'jekyll-sitemap'
+gem 'redcarpet'
