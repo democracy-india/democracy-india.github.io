@@ -5,7 +5,7 @@ comments: true
 lang: en
 thumbnail: android-icon-2332747_640.png
 summary: Guide to set up Android for privacy aware activists. Here is a compilation of commonly found holes and how to fix them. If you can afford it, do not use smart-phones at all.  This document is supposed to be a running document of what works for a typical android user without compromising too much convenience or privacy.
-tags: [Android Privacy]
+tags: [Android, Privacy]
 ---
 
 # Securing your phone
